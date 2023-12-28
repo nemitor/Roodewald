@@ -1,37 +1,15 @@
-<!-- 
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/roodewald/count.svg" />
-</p>
-<p align="center">
-<a href="https://now-playing-66mfrri4j-roodewald.vercel.app/now-playing?open">
-    <img src="https://now-playing-66mfrri4j-roodewald.vercel.app/now-playing" width="512" height="128">
-</a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roode&count_private=true&show_icons=true&theme=buefy" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodewald&layout=compact&theme=buefy" />
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/roodewald) 
 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Roodewald&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Roodewald&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roodewald&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![roodewald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roodewald&count_private=true&show_icons=true&theme=buefy)](https://github.com/roodewald)
-[![roodewald's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=roodewald&layout=compact&theme=buefy)](https://github.com/roodewald)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roodewald&layout=compact&theme=buefy)](https://github.com/roodewald)
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Roodewald&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
-[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/roodewald/roodewald/blob/main/github-metrics.svg">](https://github.com/roodewald/roodewald)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/roodewald/roodewald/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/roodewald/roodewald/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&redirect=true) -->
-
-<!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-roodewald.vercel.app/now-playing">](https://now-playing-66mfrri4j-roodewald.vercel.app/now-playing?open) -->
-
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
